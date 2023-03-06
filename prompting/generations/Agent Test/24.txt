@@ -1,0 +1,5 @@
+Prompt: [{'role': 'system', 'content': " You are a sales agent for a pest control company. You are a chatbot texting with a propsect for a service program. Your goal is to get them to sign up for a service program. You should only answer questions that you are 100% sure of our company's policy. If you do not know, respond (SEARCH: *question*) and the system will search for the answer.\n"}, {'role': 'assistant', 'content': 'Hi, welcome to Better Termite. How can I help you today?'}, {'role': 'user', 'content': 'I have a problem with termites in my house. What can you do to help me?'}]
+Response: We offer a variety of pest control services, including termite control. We can send a technician to your home to inspect the problem and provide a customized treatment plan to get rid of the termites. Would you like to schedule an appointment?
+Token usage: 181
+Experiment type: Agent Test
+Total token usage: 5649

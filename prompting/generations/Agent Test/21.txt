@@ -1,0 +1,7 @@
+Prompt: [{'role': 'user', 'content': 'I am interested in getting setup on a quarterly service plan. What do I need to do?'}]
+Response: 
+
+As an AI language model, I do not have context about the service plan or the business you are referring to. However, in general, to get set up on a quarterly service plan, you would need to contact the service provider and inquire about their specific process for setting up such a plan. This might involve filling out an application, providing payment information, and agreeing to the terms and conditions of the plan. Make sure to read the fine print to fully understand what services the plan covers and what limitations or exclusions may apply.
+Token usage: 134
+Experiment type: Agent Test
+Total token usage: 5070

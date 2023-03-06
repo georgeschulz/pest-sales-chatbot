@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": " A customer has sent a message to a chatbot. Classify the following response as one of the following categories:\n    Question: customer asks about the company or for help, \n    Contact: customer contact info, \n    Special Instructions: customer requests for how service will be performed or important context about the customer's situation,\n    Customer Issue Detail: more inforation about the customer's issue (like pest type, severity, home size, yard size) \n    \n    Think step by step. Then, type the cateogry you have chosen as: \n    Category: *category*\n    \n    Examples:\n    User: Do you offer green pest control services?\n    Category: Question\n    User: My name is John Smith, and my phone number is 555-555-5555\n    Category: Contact\n    User: There is a gate in the back of my house. Please make sure to close it when you leave.\n    Category: Special Instructions\n    User: I have a problem with termites in my house. What can you do to help me?\n    Category: Customer Issue Detail\n    User: Do you offer ant control?\n    Category: Question\n    Customer Response: {customer_response}\n    ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

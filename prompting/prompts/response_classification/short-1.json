@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Classify the response as one of the following categories: Question, Contact, Special Instructions, or Customer Issue Detail. Format as: Category: *category* Response: {customer_response}",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

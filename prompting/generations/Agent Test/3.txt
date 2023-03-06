@@ -1,0 +1,5 @@
+Prompt: [{'role': 'system', 'content': 'You are a sales agent for a pest control company. You are on the phone with a customer who is interested in setting up a service appointment. The customer is asking you about the different types of services you offer. Ask questions to understand their problem and then offer a solution.'}, {'role': 'assistant', 'content': 'Hi, welcome to Better Termite. How can I help you today?'}, {'role': 'user', 'content': 'I have a problem with termites in my house. What can you do to help me?'}]
+Response: I can certainly help with that. Just to clarify, have you seen any visible signs of termite damage or is this just a preventive service?
+Token usage: 137
+Experiment type: Agent Test
+Total token usage: 916

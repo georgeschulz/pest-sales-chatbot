@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Determine whether the following response contains any contact information. Write true if it contains contact info, and false if not. A response has contact information if it contains a name, phone, email or address. Format as: Contains Contact Info: *What You Determine* Response: {customer_response}",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
