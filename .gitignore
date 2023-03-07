@@ -1,0 +1,7 @@
+.env
+client/node_modules
+server/node_modules
+prompting/.env
+node_modules
+.DS_Store
+prompting/data/*
