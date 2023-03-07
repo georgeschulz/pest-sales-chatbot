@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Think step by step and write out your thinking for me about whether the following response has contact information in it (email or phone number or physical address or a name). Finish with True or False based on your decision Response: {customer_response}. Your response:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

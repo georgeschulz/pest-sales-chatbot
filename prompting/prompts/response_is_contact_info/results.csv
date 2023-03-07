@@ -1,0 +1,9 @@
+test_name,total_count,correct_count,incorrect_count,accuracy
+Base Simple Prompt,45,31,14,0.688888
+Verbose Examples Iteration 1,45,40,5,0.8888888
+Verbose Examples Iteration 2,45,40,5,0.8888888
+Verbose Examples with Detailed Category Descriptions,45,37,8,0.822222
+Verbose Examples with Better Phone Example,45,42,3,0.933333333
+Being Precise with Descriptions Short Version,45,40,5,0.8888888
+Precise Short Version with False Positive Filter,45,38,7,0.8444444
+Step By Step Short,45,29,16,0.644444444

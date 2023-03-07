@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Write True or False based on whether the following has either a phone number, email address, first name, last name, geographic address, state name, city name, municipality, zip code or country name: {customer_response}. Your response:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
