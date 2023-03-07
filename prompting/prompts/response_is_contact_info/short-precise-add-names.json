@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Write True or False based on whether the response has either a phone number, email address, first name, last name, geographic address, state name, city name, municipality, zip code or country name. Some examples you should return True: 829-348-3489, 9313919321, Virginia, Tacoma, John, Smith, Kate, george@gmail.com, Josh Craig, Steve, Abdul, Willie, Betty US. Response: {customer_response}. Your response:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

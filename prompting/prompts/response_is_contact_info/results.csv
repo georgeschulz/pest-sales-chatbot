@@ -7,3 +7,6 @@ Verbose Examples with Better Phone Example,45,42,3,0.933333333
 Being Precise with Descriptions Short Version,45,40,5,0.8888888
 Precise Short Version with False Positive Filter,45,38,7,0.8444444
 Step By Step Short,45,29,16,0.644444444
+Precise Short Version with Examples,45,36,9,0.8
+Fixed: Short Precise with Examples,45,42,3,0.9333333333333332
+Adding more name examples to precise,45,42,3,0.9333333333333333
