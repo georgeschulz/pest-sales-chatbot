@@ -1,0 +1,3 @@
+test_name,total_count,correct_count,incorrect_count,accuracy
+Base Prompt for Customer Issue ID,45,35,10,0.7777777777777778
+Revised to give more detail about how to treat locations,45,39,6,0.8666666666666667

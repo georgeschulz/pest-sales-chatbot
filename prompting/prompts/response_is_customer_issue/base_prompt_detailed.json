@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "The following message is from a customer speaking to a sales agent about a pest control program. Respond True or False based on whether the message contains useful information about the customer's issue, such as issue about the severity of the issue, the target pest, where they are seeing the issue, the size or type of home they are in, access details or information about how they want the service to be be completed. Contact information should not be considered to be information about the issue. Message: {customer_response}. Your response:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
