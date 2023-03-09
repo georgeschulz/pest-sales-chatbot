@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Summarize the phone number, email, first name, last name, street address, city, state, and zip code of the person who sent the message. \nExample Message: My name is John Smith. My phone number is 555-555-5555. My email is john.smith@gmail.com\nYour Response:\nFirst_Name: John\nLast_Name: Smith\nPhone_Number: 555-555-5555\nEmail: john.smith@gmail.com\nStreet_Address: None\nCity: None\nState: None\nZip: None\nMessage: {customer_response}. \nYour response:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
