@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Summarize the issue that the customer is having. You need to collect the following information:  the target pest, where they are seeing the issue, the type of service they are looking for, the severity of the issue, any special instructions for how the service will be done and any time constraints they have.\nExample: I am seeing a few mice in my kitchen. I am looking for a one time treatment for the rodent. I need you to call me the morning of with your exact timing. I am free any time after 2\nYour Response:\nTargets: mouse\nLocation_of_issue: kitchen\nService_Type: one time treatment\nSeverity: Medium\nSpecial_Instructions: call me the morning of with your exact timing\nTime_Constraints: free any time after 2\n\nExample: I am seeing ants. What can I do about this? I want to get on some sort of plan. I am free all day tomorrow.\nYour Response:\nTargets: ant\nLocation_of_issue: None\nService_Type: plan\nSeverity: None\nSpecial_Instructions: None\nTime_Constraints: free all day tomorrow\nMessage: {customer_response}\nYour response:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
