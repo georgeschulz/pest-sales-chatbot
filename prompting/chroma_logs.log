@@ -1,0 +1,261 @@
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 0.00012302398681640625
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.00010704994201660156
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0001289844512939453
+WARNING:root:Created a chunk of size 581, which is longer than the specified 500
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+WARNING:root:Created a chunk of size 581, which is longer than the specified 500
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+WARNING:root:Created a chunk of size 364, which is longer than the specified 250
+WARNING:root:Created a chunk of size 281, which is longer than the specified 250
+WARNING:root:Created a chunk of size 581, which is longer than the specified 250
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.00015115737915039062
+WARNING:root:Created a chunk of size 514, which is longer than the specified 250
+WARNING:root:Created a chunk of size 350, which is longer than the specified 250
+WARNING:root:Created a chunk of size 265, which is longer than the specified 250
+WARNING:root:Created a chunk of size 458, which is longer than the specified 250
+WARNING:root:Created a chunk of size 667, which is longer than the specified 250
+WARNING:root:Created a chunk of size 364, which is longer than the specified 250
+WARNING:root:Created a chunk of size 281, which is longer than the specified 250
+WARNING:root:Created a chunk of size 581, which is longer than the specified 250
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0002048015594482422
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 0.00015401840209960938
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 0.0001671314239501953
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 0.0002560615539550781
+DEBUG:Chroma:time to pre process our knn query: 2.1457672119140625e-06
+DEBUG:Chroma:time to run knn query: 0.0003380775451660156
+WARNING:root:Created a chunk of size 377, which is longer than the specified 250
+WARNING:root:Created a chunk of size 293, which is longer than the specified 250
+WARNING:root:Created a chunk of size 298, which is longer than the specified 250
+WARNING:root:Created a chunk of size 332, which is longer than the specified 250
+WARNING:root:Created a chunk of size 510, which is longer than the specified 250
+WARNING:root:Created a chunk of size 514, which is longer than the specified 250
+WARNING:root:Created a chunk of size 350, which is longer than the specified 250
+WARNING:root:Created a chunk of size 265, which is longer than the specified 250
+WARNING:root:Created a chunk of size 458, which is longer than the specified 250
+WARNING:root:Created a chunk of size 667, which is longer than the specified 250
+WARNING:root:Created a chunk of size 282, which is longer than the specified 250
+WARNING:root:Created a chunk of size 364, which is longer than the specified 250
+WARNING:root:Created a chunk of size 441, which is longer than the specified 250
+WARNING:root:Created a chunk of size 360, which is longer than the specified 250
+WARNING:root:Created a chunk of size 440, which is longer than the specified 250
+WARNING:root:Created a chunk of size 263, which is longer than the specified 250
+WARNING:root:Created a chunk of size 281, which is longer than the specified 250
+WARNING:root:Created a chunk of size 581, which is longer than the specified 250
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 2.1457672119140625e-06
+DEBUG:Chroma:time to run knn query: 0.0004742145538330078
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.00019812583923339844
+WARNING:root:Created a chunk of size 377, which is longer than the specified 250
+WARNING:root:Created a chunk of size 293, which is longer than the specified 250
+WARNING:root:Created a chunk of size 298, which is longer than the specified 250
+WARNING:root:Created a chunk of size 332, which is longer than the specified 250
+WARNING:root:Created a chunk of size 510, which is longer than the specified 250
+WARNING:root:Created a chunk of size 514, which is longer than the specified 250
+WARNING:root:Created a chunk of size 350, which is longer than the specified 250
+WARNING:root:Created a chunk of size 265, which is longer than the specified 250
+WARNING:root:Created a chunk of size 458, which is longer than the specified 250
+WARNING:root:Created a chunk of size 667, which is longer than the specified 250
+WARNING:root:Created a chunk of size 282, which is longer than the specified 250
+WARNING:root:Created a chunk of size 364, which is longer than the specified 250
+WARNING:root:Created a chunk of size 441, which is longer than the specified 250
+WARNING:root:Created a chunk of size 360, which is longer than the specified 250
+WARNING:root:Created a chunk of size 440, which is longer than the specified 250
+WARNING:root:Created a chunk of size 263, which is longer than the specified 250
+WARNING:root:Created a chunk of size 281, which is longer than the specified 250
+WARNING:root:Created a chunk of size 581, which is longer than the specified 250
+WARNING:root:Created a chunk of size 262, which is longer than the specified 250
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.00021576881408691406
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 0.00023412704467773438
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0002601146697998047
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0003509521484375
+WARNING:root:Created a chunk of size 408, which is longer than the specified 250
+WARNING:root:Created a chunk of size 377, which is longer than the specified 250
+WARNING:root:Created a chunk of size 293, which is longer than the specified 250
+WARNING:root:Created a chunk of size 298, which is longer than the specified 250
+WARNING:root:Created a chunk of size 332, which is longer than the specified 250
+WARNING:root:Created a chunk of size 510, which is longer than the specified 250
+WARNING:root:Created a chunk of size 514, which is longer than the specified 250
+WARNING:root:Created a chunk of size 350, which is longer than the specified 250
+WARNING:root:Created a chunk of size 265, which is longer than the specified 250
+WARNING:root:Created a chunk of size 458, which is longer than the specified 250
+WARNING:root:Created a chunk of size 667, which is longer than the specified 250
+WARNING:root:Created a chunk of size 282, which is longer than the specified 250
+WARNING:root:Created a chunk of size 364, which is longer than the specified 250
+WARNING:root:Created a chunk of size 441, which is longer than the specified 250
+WARNING:root:Created a chunk of size 360, which is longer than the specified 250
+WARNING:root:Created a chunk of size 440, which is longer than the specified 250
+WARNING:root:Created a chunk of size 263, which is longer than the specified 250
+WARNING:root:Created a chunk of size 281, which is longer than the specified 250
+WARNING:root:Created a chunk of size 581, which is longer than the specified 250
+WARNING:root:Created a chunk of size 262, which is longer than the specified 250
+WARNING:root:Created a chunk of size 855, which is longer than the specified 250
+WARNING:root:Created a chunk of size 380, which is longer than the specified 250
+WARNING:root:Created a chunk of size 258, which is longer than the specified 250
+WARNING:root:Created a chunk of size 286, which is longer than the specified 250
+WARNING:root:Created a chunk of size 326, which is longer than the specified 250
+WARNING:root:Created a chunk of size 255, which is longer than the specified 250
+WARNING:root:Created a chunk of size 371, which is longer than the specified 250
+WARNING:root:Created a chunk of size 368, which is longer than the specified 250
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 0.00024271011352539062
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0002930164337158203
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+WARNING:root:Created a chunk of size 408, which is longer than the specified 250
+WARNING:root:Created a chunk of size 377, which is longer than the specified 250
+WARNING:root:Created a chunk of size 293, which is longer than the specified 250
+WARNING:root:Created a chunk of size 298, which is longer than the specified 250
+WARNING:root:Created a chunk of size 332, which is longer than the specified 250
+WARNING:root:Created a chunk of size 510, which is longer than the specified 250
+WARNING:root:Created a chunk of size 514, which is longer than the specified 250
+WARNING:root:Created a chunk of size 350, which is longer than the specified 250
+WARNING:root:Created a chunk of size 265, which is longer than the specified 250
+WARNING:root:Created a chunk of size 458, which is longer than the specified 250
+WARNING:root:Created a chunk of size 667, which is longer than the specified 250
+WARNING:root:Created a chunk of size 282, which is longer than the specified 250
+WARNING:root:Created a chunk of size 364, which is longer than the specified 250
+WARNING:root:Created a chunk of size 441, which is longer than the specified 250
+WARNING:root:Created a chunk of size 360, which is longer than the specified 250
+WARNING:root:Created a chunk of size 440, which is longer than the specified 250
+WARNING:root:Created a chunk of size 263, which is longer than the specified 250
+WARNING:root:Created a chunk of size 281, which is longer than the specified 250
+WARNING:root:Created a chunk of size 581, which is longer than the specified 250
+WARNING:root:Created a chunk of size 262, which is longer than the specified 250
+WARNING:root:Created a chunk of size 855, which is longer than the specified 250
+WARNING:root:Created a chunk of size 380, which is longer than the specified 250
+WARNING:root:Created a chunk of size 258, which is longer than the specified 250
+WARNING:root:Created a chunk of size 286, which is longer than the specified 250
+WARNING:root:Created a chunk of size 326, which is longer than the specified 250
+WARNING:root:Created a chunk of size 255, which is longer than the specified 250
+WARNING:root:Created a chunk of size 371, which is longer than the specified 250
+WARNING:root:Created a chunk of size 368, which is longer than the specified 250
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.00030612945556640625
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0002276897430419922
+DEBUG:Chroma:time to pre process our knn query: 1.9073486328125e-06
+DEBUG:Chroma:time to run knn query: 0.0004620552062988281
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.00019502639770507812
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.00015211105346679688
+DEBUG:Chroma:time to pre process our knn query: 7.152557373046875e-07
+DEBUG:Chroma:time to run knn query: 0.00014591217041015625
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0001430511474609375
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0001468658447265625
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 0.00014829635620117188
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 0.00028204917907714844
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.00030517578125
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0002288818359375
+DEBUG:Chroma:time to pre process our knn query: 2.1457672119140625e-06
+DEBUG:Chroma:time to run knn query: 0.0005748271942138672
+DEBUG:Chroma:time to pre process our knn query: 1.6689300537109375e-06
+DEBUG:Chroma:time to run knn query: 0.0006451606750488281
+DEBUG:Chroma:time to pre process our knn query: 4.0531158447265625e-06
+DEBUG:Chroma:time to run knn query: 0.0012559890747070312
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0002009868621826172
+WARNING:langchain.llms.openai:Retrying langchain.llms.openai.completion_with_retry.<locals>._completion_with_retry in 4.0 seconds as it raised APIConnectionError: Error communicating with OpenAI: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')).
+DEBUG:Chroma:time to pre process our knn query: 1.9073486328125e-06
+DEBUG:Chroma:time to run knn query: 0.0012171268463134766
+DEBUG:Chroma:time to pre process our knn query: 2.1457672119140625e-06
+DEBUG:Chroma:time to run knn query: 0.00033283233642578125
+DEBUG:Chroma:time to pre process our knn query: 2.1457672119140625e-06
+DEBUG:Chroma:time to run knn query: 0.0003669261932373047
+DEBUG:Chroma:time to pre process our knn query: 5.0067901611328125e-06
+DEBUG:Chroma:time to run knn query: 0.0005719661712646484
+WARNING:root:Created a chunk of size 408, which is longer than the specified 250
+WARNING:root:Created a chunk of size 377, which is longer than the specified 250
+WARNING:root:Created a chunk of size 293, which is longer than the specified 250
+WARNING:root:Created a chunk of size 298, which is longer than the specified 250
+WARNING:root:Created a chunk of size 332, which is longer than the specified 250
+WARNING:root:Created a chunk of size 510, which is longer than the specified 250
+WARNING:root:Created a chunk of size 514, which is longer than the specified 250
+WARNING:root:Created a chunk of size 350, which is longer than the specified 250
+WARNING:root:Created a chunk of size 265, which is longer than the specified 250
+WARNING:root:Created a chunk of size 458, which is longer than the specified 250
+WARNING:root:Created a chunk of size 667, which is longer than the specified 250
+WARNING:root:Created a chunk of size 282, which is longer than the specified 250
+WARNING:root:Created a chunk of size 364, which is longer than the specified 250
+WARNING:root:Created a chunk of size 441, which is longer than the specified 250
+WARNING:root:Created a chunk of size 360, which is longer than the specified 250
+WARNING:root:Created a chunk of size 440, which is longer than the specified 250
+WARNING:root:Created a chunk of size 263, which is longer than the specified 250
+WARNING:root:Created a chunk of size 281, which is longer than the specified 250
+WARNING:root:Created a chunk of size 581, which is longer than the specified 250
+WARNING:root:Created a chunk of size 262, which is longer than the specified 250
+WARNING:root:Created a chunk of size 855, which is longer than the specified 250
+WARNING:root:Created a chunk of size 380, which is longer than the specified 250
+WARNING:root:Created a chunk of size 258, which is longer than the specified 250
+WARNING:root:Created a chunk of size 286, which is longer than the specified 250
+WARNING:root:Created a chunk of size 326, which is longer than the specified 250
+WARNING:root:Created a chunk of size 255, which is longer than the specified 250
+WARNING:root:Created a chunk of size 371, which is longer than the specified 250
+WARNING:root:Created a chunk of size 368, which is longer than the specified 250
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.00023603439331054688
+WARNING:langchain.embeddings.openai:Retrying langchain.embeddings.openai.embed_with_retry.<locals>._completion_with_retry in 4.0 seconds as it raised RateLimitError: The server is currently overloaded with other requests. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if the error persists..
+DEBUG:Chroma:time to pre process our knn query: 1.9073486328125e-06
+DEBUG:Chroma:time to run knn query: 0.0003917217254638672
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0001971721649169922
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0001957416534423828
+WARNING:langchain.llms.openai:Retrying langchain.llms.openai.completion_with_retry.<locals>._completion_with_retry in 4.0 seconds as it raised APIConnectionError: Error communicating with OpenAI: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')).

@@ -5,3 +5,4 @@ prompting/.env
 node_modules
 .DS_Store
 prompting/data/*
+.venv
