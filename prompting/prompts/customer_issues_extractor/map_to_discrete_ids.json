@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Decide which issue the customer is having, then map it to one of the numbers below. Only include issues that the customer is obviously experiencing based on the customer message.\n0: None\n1: Ants\n2: Spiders\n3: Termites\n4: Rats\n5: Mice\n6: Roaches\n7: Fleas\n8: Ticks\n9: Bed Bugs\n10: Bees\n11: Wasps\n12: Millipedes\n13: Centipedes\n14: Crickets\n15: Earwigs\nUse 0 if you the customer's issues do not fit any of the above.\nExamples\nCustomer Response: I have a problem with ants in my kitchen.\nPests: Ants\nNumber: 1\nCustomer Reponse: Termites and rodents are eating my house.\nPests: Termites, rodents\nNumber: 3, 4\nCustomer Response: No issue with rodents\nPests: None\nNumber: 0\nCustomer Response: {customer_response}",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

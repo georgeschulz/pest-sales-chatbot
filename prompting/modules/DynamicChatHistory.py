@@ -6,11 +6,12 @@ from langchain.schema import (
 )
 
 class DynamicChatHistory:
-    def __init__(self, model, system_message="", initial_history=[], additional_context=""):
+    def __init__(self, model, system_message="", initial_history=[], additional_context="", use_sum=False):
         self.history = initial_history
         self.system_message = system_message
         self.additional_context = additional_context
         self.memory = ConversationSummaryMemory(llm=model)
+        self.use_sum = use_sum
     
     def respond(self, message):
         self.history.append(message)
@@ -19,7 +20,10 @@ class DynamicChatHistory:
     def get(self):
         total_history = []
         system_prompt = self.system_message # this is the base prompt
-        summary = self.memory.load_memory_variables({})['history']
+        if self.use_sum:
+            summary = self.memory.load_memory_variables({})['history']
+        else:
+            summary = self.get_transcript()
         if summary != "":
             system_prompt += "\nConversation Summary So Far:" + summary + '\n'
         else:
@@ -47,3 +51,14 @@ class DynamicChatHistory:
         messages = self.memory.chat_memory.messages
         previous_summary = self.memory.load_memory_variables({})['history']
         self.memory.predict_new_summary(messages, previous_summary)
+
+    def get_transcript(self):
+        transcript = ""
+        for message in self.history:
+            if isinstance(message, HumanMessage):
+                transcript += "\nUser: " + message.content
+            elif isinstance(message, SystemMessage):
+                pass
+            else:
+                transcript += "\nAgent: " + message.content
+        return transcript

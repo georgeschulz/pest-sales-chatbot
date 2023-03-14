@@ -16,8 +16,7 @@ class Extractor:
     
     def natural_language_to_dict_extractor(self, input):
         #Search for every instance of a line that has a characterisitc, then a colon, then a value (ex. "Name: John")
-        #regex = r"(\w+): ([\w\s-]+)"
-        regex = re.compile(r"(\w+): ([\w.@ \t-]+)", re.DOTALL)
+        regex = re.compile(r"(\w+): ([\w.,@ \t-]+)", re.DOTALL)
         matches = re.findall(regex, input)
         #Then, add the characteristic and value to a dictionary
         dictionary = {}

@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "customer_response"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Summarize the issue that the customer is having. Only include issues that the customer is obviously experiencing based on the customer message. You need to collect the following information: the target pests they are having an issues with as a comma seperated list. Target pest include: ants, spiders, termites, rats, mice, roaches, fleas, ticks, bed bugs, bees, wasps, millipedes, centipedes, crickets, earwigs, silverfish, and moths. If it does not fit any one of them, write None.\nExamples\nCustomer Response: I have a problem with ants in my kitchen.\nPests: Ants\nCustomer Reponse: Termites and rodents are eating my house.\nPests: Termites, rodents\nCustomer Response: No issue with rodents\nPests: None\nCustomer Response: {customer_response}",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
