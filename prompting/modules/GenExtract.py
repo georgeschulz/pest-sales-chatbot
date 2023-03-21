@@ -19,7 +19,8 @@ class GenExtract:
             self.total_tokens += raw_text.tokens
         extracted = self.extractor(completion)
         if self.print_intermediate:
-            print('Generation: ', raw_text.result)
+            print(raw_text.result)
+            print(extracted)
         return extracted
     
     def prompt(self):

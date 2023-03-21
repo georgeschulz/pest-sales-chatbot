@@ -41,7 +41,11 @@ class DynamicChatHistory:
         self.additional_context = context
     
     def append_context(self, context):
-        self.additional_context += context
+        #check if context is NoneType
+        if context is None:
+            self.additional_context += ""
+        else:
+            self.additional_context += context
     
     def clear_context(self):
         self.additional_context = ""

@@ -1,0 +1,14 @@
+{
+    "input_variables": [
+        "customer_issue",
+        "siutation_analysis",
+        "services_plain_text",
+        "customer_preferences"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "About the customer you are helping:\nCurrent Issue: {customer_issue}\nSeverity: {siutation_analysis}\nStated Preferences: {customer_preferences}\nYour goal is to help them pick whatever service would work best for them. Put then in order of best to worst. Your should prefer services that are recurring, rather than one time services. If the customer's preferences indicate they are interested in one time, services you should also add in one time servies.\n\n{services_plain_text}\n\nThink step by step and walk through your logic for selecting the program for the customer before writing your answer. Explain your thinking before answering. Then, write an ordered list with at least one response like this at the end of your response. Do not include programs that will not solve the problem. You do not have to include all programs in the list. Do your thinking, then write the list:\nExample:\nGiven that the customer has termites, we can eliminate all programs that don't cover termites, like the monthly pest and rodent control, quarterly pest control, VIP, Lawnshield, One Time Services, IN2Care and Castle.\nSince the customer has not stated they have a pest problem, Program 2 is the best program for them. Next best is the Program 4.\nRatings\n1. Program 2\n2. Program 4\nYour answer:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
