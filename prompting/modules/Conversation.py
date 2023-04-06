@@ -37,6 +37,7 @@ class Conversation:
 
         #use the dependencies to inject the appropriate context and goals
         next_goal = self.dependencies.get_next_dependency()
+        print('NEXT GOAL: ', next_goal)
         self.history.append_context(next_goal)
         
         #log the human's response so we have chain to review
@@ -46,8 +47,9 @@ class Conversation:
         is_message_a_question = is_question(message)
 
         #if the classifier says, it's a question, query the policies and add them to the context to increase truthfullness 
-        if is_message_a_question:
+        if is_message_a_question == True:
             self.history.append_context("""Use the following pieces of context to answer the users question. If you don't know the answer, just say that you don't know, don't try to make up an answer.\n""")
+            print('ADDING POLICY')
             relevant_policies = self.policies.similarity_search(message, 1)
             policies_string = ""
             for policy in relevant_policies:
